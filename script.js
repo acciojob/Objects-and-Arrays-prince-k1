@@ -15,7 +15,10 @@ window.cap1 = cap1;
 
 var team = players;
 
-var team1= team;
-var  cap1= person;
+var team1= ["John", "Bob", "Alice", "Poppy"];
+var  cap1= {
+  name: "John Doe",
+  age: 80,
+};
 
 
