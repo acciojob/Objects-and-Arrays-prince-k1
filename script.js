@@ -13,4 +13,9 @@ window.team = team;
 window.team1 = team1;
 window.cap1 = cap1;
 
+var team = players;
+
+var team1= team;
+var  cap1= person;
+
 
